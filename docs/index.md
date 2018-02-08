@@ -1,6 +1,6 @@
 **University of California, Berkeley, Department of Physics**
 
-**PHY151: Fall 2017**
+**PHY188: Fall 2018**
 
 Data science and Bayesian statistics for physical sciences
 ====================================================================
