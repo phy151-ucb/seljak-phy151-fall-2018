@@ -2,7 +2,7 @@ site_name: "Numerical methods, data science and statistics for physical sciences
 theme: readthedocs
 theme_dir: 'readthedocs_custom'
 edit_uri: edit/master/docs/
-repo_url: https://github.com/bccp/seljak-phy151-fall-2017
+repo_url: https://github.com/phy151-ucb/seljak-phy151-fall-2018
 extra:
   logo : img/banner.png
   logo_name : true
