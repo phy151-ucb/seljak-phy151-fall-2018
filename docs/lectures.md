@@ -7,7 +7,7 @@ Lecture Notes
        https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture1_new.pdf
     )
  - [Lecture 2](
-       https://raw.githubusercontent.com/bccp/seljak-phy151-fall-2017/master/lecture-notes/Lecture2.pdf
+       https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture2_new.pdf
     )
  - [Lecture 3](
        https://raw.githubusercontent.com/bccp/seljak-phy151-fall-2017/master/lecture-notes/Lecture3.pdf
