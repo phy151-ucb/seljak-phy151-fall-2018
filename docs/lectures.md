@@ -4,7 +4,7 @@ Lecture Notes
 [This page](https://bccp.github.io/seljak-phy151-fall-2017/lectures/) contains a list of links to PHY151 lecture notes.
 
  - [Lecture 1](
-       https://raw.githubusercontent.com/bccp/seljak-phy151-fall-2017/master/lecture-notes/Lecture1.pdf
+       https://raw.githubusercontent.com/phy151-ucb.github.io/seljak-phy151-fall-2018/master/lecture-notes/Lecture1_new.pdf
     )
  - [Lecture 2](
        https://raw.githubusercontent.com/bccp/seljak-phy151-fall-2017/master/lecture-notes/Lecture2.pdf
