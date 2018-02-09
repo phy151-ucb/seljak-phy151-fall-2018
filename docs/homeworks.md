@@ -2,13 +2,35 @@ Homeworks
 =========
 How to access the assignment and submit it to okpy:
 
-[This page](https://bccp.github.io/seljak-phy151-fall-2017/homeworks/)
-contains a list of links to PHY151 homeworks.
+[This page](https://phy151-ucb.github.io/seljak-phy151-fall-2018/homeworks/)
+contains a list of links to PHY188 homeworks.
 
 You can also access assignments from a link posted on the  bCourses website,  under “Assignments",
 which contains the most updated information.
 
- - [HW1 (due Sept 5)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1-solution.ipynb)
+ - HW1: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.ipynb)
+ 
+ - HW2: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW2.ipynb)
+ 
+ - HW3: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW3.ipynb)
+
+ - HW4: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW4.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW4.ipynb)
+
+ - HW5: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW5.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW5.ipynb)
+ 
+ - Project 1: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project1.ipynb)
+ 
+ - HW6: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW6.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW6.ipynb)
+ 
+ - HW7: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW7.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW7.ipynb)
+ 
+ - HW8: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW8.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW8.ipynb)
+
+ - Project 2: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project2.ipynb)
+ 
+ - Project 3: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project3.ipynb)
+
+<!-- - [HW1 (due Sept 5)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1-solution.ipynb)
  - [HW2 (due Sept 11)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2-solution.ipynb)
  - [HW3 (due Sept 18)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW3/HW3.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW3/HW3-solution.ipynb)
  - [HW4 (due Sept 25)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW4/HW4.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW4/HW4-solution.ipynb)
@@ -18,7 +40,7 @@ which contains the most updated information.
  - [HW7 (due Nov 8)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW7/HW7.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW7/HW7-solution.ipynb)
  - [HW8 (due Nov 15)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW8/HW8.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW8/HW8-solution.ipynb)
  - [Project2 (due Nov 29)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/Project2/Project2.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/Project2/Project2-solution.ipynb)
- - [Project3 (due Dec 13)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/Project3/Project3.ipynb)
+ - [Project3 (due Dec 13)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/Project3/Project3.ipynb) -->
  - ``TO BE POSTED``
 <!-- - [HW2 ??? ??, 2017](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2.ipynb) -->
 <!-- - [HW3 ??? ??, 2017](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW3/HW3.ipynb) -->
@@ -27,7 +49,7 @@ which contains the most updated information.
 Instructions
 ------------
 
-During the course of PHY151, you will be writing and running the homeworks in the Data8
+During the course of PHY188, you will be writing and running the homeworks in the Data8
 IPython Jupyter Notebook environment provided by ``datahub.berkeley.edu``.
 
 Once you click the homework link, the environment will bring you to the Jupyter Notebook
