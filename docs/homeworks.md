@@ -6,7 +6,7 @@ How to access the assignment and submit it to okpy:
 contains a list of links to PHY188 homeworks.
 
 You can also access assignments from a link posted on the  bCourses website,  under “Assignments",
-which contains the most updated information.
+which contains the most updated information. To download a Jupyter notebook, right click the link and save it as an .ipynb file.
 
  - HW1: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.ipynb)
  
@@ -41,7 +41,7 @@ which contains the most updated information.
  - [HW8 (due Nov 15)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW8/HW8.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW8/HW8-solution.ipynb)
  - [Project2 (due Nov 29)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/Project2/Project2.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/Project2/Project2-solution.ipynb)
  - [Project3 (due Dec 13)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/Project3/Project3.ipynb) -->
- - ``TO BE POSTED``
+<!-- - ``TO BE POSTED`` -->
 <!-- - [HW2 ??? ??, 2017](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2.ipynb) -->
 <!-- - [HW3 ??? ??, 2017](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW3/HW3.ipynb) -->
 <!-- - [HW4 ??? ??, 2017](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW4/HW4.ipynb) -->
