@@ -59,11 +59,6 @@
             "location": "/lectures/#lecture-notes",
             "text": "This page  contains a list of links to PHY188 lecture notes.   Lecture 1  Lecture 2  Lecture 3  Lecture 4  Lecture 5  Lecture 6  Lecture 7  Lecture 8  Lecture 9  Lecture 10  Lecture 11  Lecture 12  Lecture 13  Lecture 14  Lecture 15  Lecture 16  Lecture 17    A full list can be found at on  github",
             "title": "Lecture Notes"
-        },
-        {
-            "location": "/math/",
-            "text": "Example adding math to pages.\n\n\nWhen \na \\ne 0\n, there are two solutions to \nax^2 + bx + c = 0\n and they are\n\nx = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}.\n\n\n\n\n\n\n\n c = 193",
-            "title": "Math"
         }
     ]
 }
