@@ -55,9 +55,7 @@ Lecture Notes
        https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture17_new.pdf
     )
 <!-- - [Lecture Notes Aug 24, 2017](
-       https://raw.githubusercontent.com/bccp/seljak-phy151-fall-2017/master/lecture-notes/lecture-1.pdf
- - ``TO BE POSTED``
-) -->
+       https://raw.githubusercontent.com/bccp/seljak-phy151-fall-2017/master/lecture-notes/lecture-1.pdf)-->
 
 
 A full list can be found at on [github](https://github.com/phy151-ucb/seljak-phy151-fall-2018/tree/master/lecture-notes/)
