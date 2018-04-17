@@ -1,13 +1,13 @@
 Look for files in docs/ directory
 
-https://bccp.github.io/seljak-phy151-fall-2017
+https://phy151-ucb.github.io/seljak-phy151-fall-2018/
 
 To build locally,
 
     pip install python-markdown-math
     pip install mkdocs
 
-    git clone https://github.com/bccp/seljak-phy151-fall-2017.git
+    git clone ...
 
     cd seljak-phy151-fall-2017
 
