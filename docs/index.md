@@ -11,7 +11,7 @@ Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
 &nbsp; Office hours: Friday 2-3PM, Location TBD
 
-Lecture: Monday, Wednesday 11AM-12:30AM, 251 LeConte Hall <br>
+Lecture: Monday, Wednesday 11AM-12:30PM, 251 LeConte Hall <br>
 Discussion: Thursday, 1-2PM, Location TBD
 
 
@@ -25,14 +25,14 @@ Course Syllabus
 The goals of the course is to get acquainted with modern computational methods
 used in physical sciences, including numerical analysis methods, data science and Bayesian statistics. 
 We will introduce a number of concepts that are useful in physical sciences at varying depth levels. We will cover main numerical methods used in physical sciences. Most of the statistical concepts will be Bayesian, 
-emphasizing the concepts that have a connection to physical sciences, such as classical and statistical mechanics. We will focus on data science and data analysis applications that are often encountered in real world of physical sciences. Moreover, we will review many of the machine learning concepts and methods. 
+emphasizing the concepts that have a connection to physical sciences, such as classical and statistical mechanics. We will focus on data science and data analysis applications that are often encountered in real world of physical sciences. We will review many of the machine learning concepts and methods. 
 
 **Target audience**:
-target student population are upper division undergraduates from physical science departments, as well as beginning graduate students from the same departments. The course is also suitable for graduate students looking for an introduction to programming and numerical 
+Target student population are upper division undergraduates from physical science departments, as well as beginning graduate students from the same departments. The course is also suitable for graduate students looking for an introduction to programming and numerical 
 methods in phython.
 
 **Course structure**:
-each week there will be a set of 3 hour lectures discussing theoretical and practical underpinnings of the specific topic,
+Each week there will be a set of 3 hour lectures discussing theoretical and practical underpinnings of the specific topic,
 together with its most common applications in physical sciences. Class participation is expected in the form of weekly reading the lecture in advance, submitting comments and questions on the lecture and answering a short set of questions. There will be eight python based homework assignments, applying the methods to physical science based applications. A weekly one hour discussion will focus on the lecture material and homeworks. There will be 3 longer projects spread over the term.
 
 **Prerequsites**:
