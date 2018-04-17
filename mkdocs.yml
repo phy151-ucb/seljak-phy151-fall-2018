@@ -1,4 +1,4 @@
-site_name: "Numerical methods, data science and statistics for physical sciences"
+site_name: "Data science and Bayesian statistics for physical sciences"
 theme: readthedocs
 theme_dir: 'readthedocs_custom'
 edit_uri: edit/master/docs/
