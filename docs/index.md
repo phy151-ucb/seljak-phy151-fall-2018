@@ -1,18 +1,18 @@
 **University of California, Berkeley, Department of Physics**
 
-**PHY188: Fall 2018**
+**PHY151: Fall 2018**
 
 Data science and Bayesian statistics for physical sciences
 ====================================================================
 
 Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
-&nbsp; Office hours: Tuesday 12-1PM, Thursday 11AM-12PM, Campbell 359 (knock on the glass door if you do not have access)
+&nbsp; Office hours: Monday 12:30-1:30PM, Campbell 359 (knock on the glass door if you do not have access)
 
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
-&nbsp; Office hours: Monday 3:30-4:30PM, LeConte 395
+&nbsp; Office hours: Friday 2-3PM, LeConte 395
 
-Lecture: Tuesday, Thursday 9:30-11 AM, 251 LeConte Hall <br>
-Discussion: Friday 12-1 PM, 251 LeConte Hall
+Lecture: Monday, Wednesday 11AM-12:30AM, 251 LeConte Hall <br>
+Discussion: Thursday, 1-2PM, Location TBD
 
 
 
@@ -25,23 +25,20 @@ Course Syllabus
 The goals of the course is to get acquainted with modern computational methods
 used in physical sciences, including numerical analysis methods, data science and Bayesian statistics. 
 We will introduce a number of concepts that are useful in physical sciences at varying depth levels. We will cover main numerical methods used in physical sciences. Most of the statistical concepts will be Bayesian, 
-emphasizing the concepts that have a connection to physical sciences, such as classical and statistical mechanics. We will focus on data science and data analysis applications that are often encountered in real world of physical sciences. 
+emphasizing the concepts that have a connection to physical sciences, such as classical and statistical mechanics. We will focus on data science and data analysis applications that are often encountered in real world of physical sciences. Moreover, we will review many of the machine learning concepts and methods. 
 
 **Target audience**:
-target student population are upper division undergraduates from physical science departments, as well as beginning graduate students from the same departments.
+target student population are upper division undergraduates from physical science departments, as well as beginning graduate students from the same departments. The course is also suitable for graduate students looking for an introduction to programming and numerical 
+methods in phython.
 
 **Course structure**:
 each week there will be a set of 3 hour lectures discussing theoretical and practical underpinnings of the specific topic,
-together with its most common applications in physical sciences. There will be a weekly python based homework assignment,
-applying a subset of the methods to physical science based applications. A weekly one hour discussion will focus on 
-the lecture material and homeworks. There will be 3 longer projects spread over the term.  
+together with its most common applications in physical sciences. Class participation is expected in the form of weekly reading the lecture in advance, submitting comments and questions on the lecture and answering a short set of questions. There will be eight python based homework assignments, applying the methods to physical science based applications. A weekly one hour discussion will focus on the lecture material and homeworks. There will be 3 longer projects spread over the term.
 
 **Prerequsites**:
-Undergraduate students: PHY7 or PHY5 series, 
-basic introduction to Python programming at the level of PHY77 or permission from instructor. 
-Some knowledge of analytic mechanics and statistical physics at the level of PHY105 and PHY112 will be assumed. Graduate students: equivalent of PHY105 and 112, and basic introduction to Python programming, or permission from instructor. 
+Undergraduate students: PHY7 or PHY5 series, basic introduction to Python programming at the level of PHY77 or permission from instructor. Some knowledge of analytic mechanics and statistical physics at the level of PHY105 and PHY112 will be assumed. Graduate students: none. 
 
-**Grades**: 45% projects, 45% homeworks, 10% class participation.
+**Grades**: 30% projects, 40% homeworks, 30% class participation. Taking the course for Pass/Fail requires 50% of the work completed. 
 
 Weekly Syllabus
 ---------------
@@ -166,6 +163,6 @@ Sample projects:
 
 1) **Planck satellite data analysis**: use measurement of Planck satellite power spectrum to determine cosmological parameters. First use linear algebra to solve the least square problem and find MAP/MLE best fit parameters. Next use optimization to solve for the same. Determine covariances of all parameters using Laplace approximation. Make predictions for future experiments with lower noise using Fisher matrix experiment design predictions. Use Planck published MCMC chains and analyze their burn-in phase, Gelman-Rubin statistics, and chain correlations. Plot their 1-d and 2-d distributions and compare them to MAP/Laplace approximation. Change one parameter and use importance sampling to produce new posteriors.  
 
-2) **Nobel prize data analysis**: use matched filtering methods and FFT to analyze first LIGO event and show it has detected gravitational waves. Use a compilation of supernovae data to show that universe is accelerating its expansion and hence it containsdark energy. 
+2) **LIGO Nobel prize data analysis**: use matched filtering methods and FFT to analyze first LIGO event and show it has detected gravitational waves.
 
 3) **Machine learning on galaxies**: use SDSS galaxy flux photometric measurements and redshift measurements to train the ML algorithms for regression, determining the redshift. Use verification data to test the training algorithms. Try KNN, gaussian processes, linear and quadratic regression, support vector machines, neural networks, random forest... Next try classification: use galaxy zoo galaxy morphology (spirals ellipticals, irregulars...) training data and apply to SDSS. Use photometry first, then add image information and observe how the accuracy improves. 
