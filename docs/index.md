@@ -9,7 +9,7 @@ Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
 &nbsp; Office hours: Monday 12:30-1:30PM, Campbell 359 (knock on the glass door if you do not have access)
 
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
-&nbsp; Office hours: Friday 2-3PM, LeConte 395
+&nbsp; Office hours: Friday 2-3PM, Location TBD
 
 Lecture: Monday, Wednesday 11AM-12:30AM, 251 LeConte Hall <br>
 Discussion: Thursday, 1-2PM, Location TBD
