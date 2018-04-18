@@ -12,11 +12,11 @@ GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
 &nbsp; Office hours: Friday 2-3PM, Location TBD
 
 Lecture: Monday, Wednesday 11AM-12:30PM, 251 LeConte Hall <br>
-Discussion: Thursday, 1-2PM, Location TBD
+Discussion: Thursday, 1-2PM, 251 LeConte Hall
 
 
 
-Class Number: 46359
+Class Number: 25653
 
 Course Syllabus
 ---------------
