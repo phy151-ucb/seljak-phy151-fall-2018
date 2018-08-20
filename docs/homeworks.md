@@ -8,7 +8,7 @@ contains a list of links to PHY151 homeworks.
 You can also access assignments from a link posted on the  bCourses website,  under “Assignments",
 which contains the most updated information. 
 
- - [HW1_undergraduate_level (due Sept 3)](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_U.ipynb)/  [HW1_graduate_level (due Sept 3)](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_G.ipynb)
+ - HW1 (due Sept 3): [Undergraduate_level](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_U.ipynb)/    [Graduate_level](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_G.ipynb)
 
 <!-- - [HW1 (due Sept 5)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1-solution.ipynb)
  - [HW2 (due Sept 11)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2-solution.ipynb)
@@ -68,6 +68,7 @@ Here is an example
  - The notebook can be saved to the Data8 system for the duration of the semester. This can be done by clicking the floppy disk (&#x1f4be;),
    or clicking File/Save and Checkpoint. Have you ever seen a floppy disk?
    
+<br>
    
 Past Assignments:
 To download a Jupyter notebook, right click the link and save it as an .ipynb file.
