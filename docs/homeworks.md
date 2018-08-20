@@ -29,7 +29,7 @@ which contains the most updated information.
 Instructions
 ------------
 
-During the course of PHY188, you will be writing and running the homeworks in the Data8
+During the course of PHY151, you will be writing and running the homeworks in the Data8
 IPython Jupyter Notebook environment provided by ``datahub.berkeley.edu``.
 
 Once you click the homework link, the environment will bring you to the Jupyter Notebook
