@@ -1,7 +1,7 @@
 Lecture Notes
 =============
 
-[This page](https://phy151-ucb.github.io/seljak-phy151-fall-2018/lectures/) contains a list of links to PHY188 lecture notes.
+[This page](https://phy151-ucb.github.io/seljak-phy151-fall-2018/lectures/) contains a list of links to PHY151 lecture notes.
 
  - [Lecture 1: Numerical Methods: Integration and ODE&PDEs](
        https://rawgit.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture1_new.pdf
