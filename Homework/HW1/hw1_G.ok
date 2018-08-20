@@ -1,0 +1,15 @@
+{
+  "name": "Homework 1",
+  "endpoint": "cal/phy151/fa18/assignment1",
+  "src": [
+    "HW1_G.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
