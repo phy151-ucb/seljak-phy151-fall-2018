@@ -3,32 +3,12 @@ Homeworks
 How to access the assignment and submit it to okpy:
 
 [This page](https://phy151-ucb.github.io/seljak-phy151-fall-2018/homeworks/)
-contains a list of links to PHY188 homeworks.
+contains a list of links to PHY151 homeworks.
 
 You can also access assignments from a link posted on the  bCourses website,  under “Assignments",
-which contains the most updated information. To download a Jupyter notebook, right click the link and save it as an .ipynb file.
+which contains the most updated information. 
 
- - HW1: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.ipynb)
- 
- - HW2: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW2.ipynb)
- 
- - HW3: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW3.ipynb)
-
- - HW4: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW4.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW4.ipynb)
-
- - HW5: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW5.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW5.ipynb)
- 
- - Project 1: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project1.ipynb)
- 
- - HW6: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW6.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW6.ipynb)
- 
- - HW7: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW7.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW7.ipynb)
- 
- - HW8: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW8.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW8.ipynb)
-
- - Project 2: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project2.ipynb)
- 
- - Project 3: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project3.ipynb)
+ - [HW1_undergraduate_level (due Sept 3)](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_U.ipynb)/  [HW1_graduate_level (due Sept 3)](http://datahub.berkeley.edu/user-redirect/interact?account=phy151-ucb&repo=seljak-phy151-fall-2018&branch=master&path=Homework/HW1/HW1_G.ipynb)
 
 <!-- - [HW1 (due Sept 5)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW1/HW1-solution.ipynb)
  - [HW2 (due Sept 11)](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2.ipynb)/  [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=bccp&repo=seljak-phy151-fall-2017&branch=master&path=Homework/HW2/HW2-solution.ipynb)
@@ -87,4 +67,31 @@ Here is an example
  - You can submit multiple times -- we only grade the lastest submission before the deadline.
  - The notebook can be saved to the Data8 system for the duration of the semester. This can be done by clicking the floppy disk (&#x1f4be;),
    or clicking File/Save and Checkpoint. Have you ever seen a floppy disk?
+   
+   
+Past Assignments:
+To download a Jupyter notebook, right click the link and save it as an .ipynb file.
+
+ - HW1: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW1.ipynb)
+ 
+ - HW2: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW2.ipynb)
+ 
+ - HW3: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW3.ipynb)
+
+ - HW4: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW4.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW4.ipynb)
+
+ - HW5: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW5.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW5.ipynb)
+ 
+ - Project 1: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project1.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project1.ipynb)
+ 
+ - HW6: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW6.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW6.ipynb)
+ 
+ - HW7: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW7.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW7.ipynb)
+ 
+ - HW8: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW8.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/HW8.ipynb)
+
+ - Project 2: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project2.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project2.ipynb)
+ 
+ - Project 3: [PDF](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project3.pdf)/  [Jupyter notebook](https://raw.githubusercontent.com/phy151-ucb/seljak-phy151-fall-2018/master/Homework/Project3.ipynb)
+
 
