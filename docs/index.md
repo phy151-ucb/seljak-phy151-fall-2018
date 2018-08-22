@@ -6,7 +6,7 @@ Data science and Bayesian statistics for physical sciences
 ====================================================================
 
 Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
-&nbsp; Office hours: Monday 12:30-1:30PM, Campbell 359 (knock on the glass door if you do not have access)
+&nbsp; Office hours: Wednesday 12:30-1:30PM, Campbell 359 (knock on the glass door if you do not have access)
 
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
 &nbsp; Office hours: Monday 2-3PM, Location TBD
