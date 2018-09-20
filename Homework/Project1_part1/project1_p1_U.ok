@@ -1,6 +1,6 @@
 {
-  "name": "Project 1 Part 1”,
-  "endpoint": "cal/phy151/fa18/project1p1”,
+  "name": "Project 1 Part 1",
+  "endpoint": "cal/phy151/fa18/project1p1",
   "src": [
     "Project1_p1_U.ipynb"
   ],
