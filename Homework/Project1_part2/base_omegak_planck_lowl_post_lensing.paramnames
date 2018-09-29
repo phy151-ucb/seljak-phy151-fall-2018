@@ -1,0 +1,47 @@
+2 omegabh2	\Omega_b h^2
+3 omegach2	\Omega_c h^2
+4 theta	100\theta_{MC}
+5 tau	\tau
+6 omegak	\Omega_K
+7 ns	n_s
+8 logA	{\rm{ln}}(10^{10} A_s)
+9 aps100	A^{PS}_{100}
+10 aps143	A^{PS}_{143}
+11 aps217	A^{PS}_{217}
+12 acib143	A^{CIB}_{143}
+13 acib217	A^{CIB}_{217}
+14 asz143	A^{tSZ}_{143}
+15 psr	r^{PS}_{143\times217}
+16 cibr	r^{CIB}_{143\times217}
+17 ncib	\gamma^{CIB}
+18 cal0	c_{100}
+19 cal2	c_{217}
+20 xi	\xi^{tSZ-CIB}
+21 aksz	A^{kSZ}
+22 bm_1_1	\beta^1_1
+23 omegal*	\Omega_\Lambda
+24 omegam*	\Omega_m
+25 sigma8*	\sigma_8
+26 zrei*	z_{re}
+27 r10*	r_{10}
+28 H0*	H_0
+29 r02*	r
+30 A*	10^9 A_s
+31 omegamh2*	\Omega_m h^2
+32 omegamh3*	\Omega_m h^3
+33 yheused*	Y_P
+34 clamp*	10^9 A_s e^{-2\tau}
+35 omeganuh2*	\Omega_\nu h^2
+36 age*	{\rm{Age}}/{\rm{Gyr}}
+ zstar*	z_*
+ rstar*	r_*
+ thetastar*	\theta_*
+ zdrag*	z_{\rm{drag}}
+ rdrag*	r_{\rm{drag}}
+ kd*	k_D
+ thetad*	\theta_D
+ zeq*	z_{\rm{eq}}
+ thetaeq*	\theta_{\rm{eq}}
+ rsDv057*	r_{\rm{drag}}/D_V(0.57)
+ H057*	H(0.57)
+ DA057*	D_A(0.57)
