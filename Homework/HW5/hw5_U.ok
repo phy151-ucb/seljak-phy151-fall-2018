@@ -1,6 +1,6 @@
 {
   "name": "Homework 5",
-  "endpoint": "cal/phy151/fa17/assignment5",
+  "endpoint": "cal/phy151/fa18/assignment5",
   "src": [
     "HW5_U.ipynb"
   ],
