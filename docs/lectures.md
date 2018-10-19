@@ -27,10 +27,10 @@ Lecture Notes
  - [Lecture 8: Advanced Bayesian Concepts (Probabilistic graphical models, Hierarchical Bayesian models, etc)](
        https://rawgit.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture8_new.pdf
     )
- - [Lecture 9: Best Practices of Statistical Analysis](
+ - [Lecture 9: Distributional Approximations](
        https://rawgit.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture9_new.pdf
     )
- - [Lecture 10: Distributional Approximations](
+ - [Lecture 10: Best Practices of Statistical Analysis](
        https://rawgit.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture10_new.pdf
     )
  - [Lecture 11: From Interpolation to Regressions to Gaussian Processes](
