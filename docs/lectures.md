@@ -36,10 +36,10 @@ Lecture Notes
  - [Lecture 11: From Interpolation to Regressions to Gaussian Processes](
        https://rawgit.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture11_new.pdf
     )
- - [Lecture 12: Classification](
+ - [Lecture 12: Fourier Methods](
        https://rawgit.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture12_new.pdf
     )
- - [Lecture 13: Fourier Methods](
+ - [Lecture 13: Classification](
        https://rawgit.com/phy151-ucb/seljak-phy151-fall-2018/master/lecture-notes/Lecture13_new.pdf
     )
  - [Lecture 14: Neural Networks, Deep Networks, Convolutional Nets, etc](
