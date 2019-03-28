@@ -1,22 +1,22 @@
 **University of California, Berkeley, Department of Physics**
 
-**PHY151: Fall 2018**
+**PHY188/288: Fall 2019**
 
-Data science and Bayesian statistics for physical sciences
+Data Science and Bayesian Statistics
 ====================================================================
 
 Instructor: Uro&#353; Seljak, Campbell Hall 359, useljak@berkeley.edu <br>
-&nbsp; Office hours: Wednesday 12:30-1:30PM, Campbell 359 (knock on the glass door if you do not have access)
+&nbsp; Office hours: TBD, Campbell 359 (knock on the glass door if you do not have access)
 
 GSI: Byeonghee Yu, bhyu@berkeley.edu <br>
-&nbsp; Office hours: Friday 10:30-11:30AM, 251 LeConte Hall
+&nbsp; Office hours: TBD
 
-Lecture: Monday, Wednesday 11AM-12:30PM, 251 LeConte Hall <br>
-Discussion: Thursday, 1-2PM, 251 LeConte Hall
+Lecture: TBD <br>
+Discussion: TBD
 
 
 
-Class Number: 25653
+Class Number: TBD
 
 Course Syllabus
 ---------------
